@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Good Will Hunting",
+      "year": "1997",
+      "rating": "R"
+    },
+    {
+      "id": "2",
+      "title": "Friday Night Lights",
+      "year": "2004",
+      "rating": "PG-13"
+    },
+    {
+      "id": "3",
+      "title": "Star Wars",
+      "year": "1977",
+      "rating": "PG"
+    },
+    {
+      "id": "4",
+      "title": "Lost In Translation",
+      "year": "2003",
+      "rating": "R"
+    },
+    {
+      "id": "5",
+      "title": "One Flew Over the Cukoos Nest",
+      "year": "1975",
+      "rating": "R"
+    },
+    {
+      "id": "8JI6xzRroNArT7e_aHwPr",
+      "title": "Signs",
+      "year": "2002",
+      "rating": "PG-13"
+    },
+    {
+      "id": "90X0KgCN18leU1cYrSnPx",
+      "title": "Matrix Reloaded",
+      "year": "2003",
+      "rating": "R"
+    },
+    {
+      "id": "Qoiv2BM-VXXoi5xMWrXVc",
+      "title": "The Lord of the Rings: Fellowship of the ring",
+      "year": "2002",
+      "rating": "PG-13"
+    }
+  ]
+}

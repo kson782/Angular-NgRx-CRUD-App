@@ -1,0 +1,19 @@
+h1 {
+    font-size: 18px;
+    color: rgb(48, 28, 161);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+    background-color: rgb(13, 125, 238);
+    color: white;
+}
+
+.navigateButton {
+    margin-top: 10px;
+}

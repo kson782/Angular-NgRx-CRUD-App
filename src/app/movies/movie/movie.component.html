@@ -1,0 +1,10 @@
+<div *ngIf="loading$ | async">...Loading</div>
+
+<div *ngFor="let movie of movies$ | async">
+    <h1>{{movie.title}}</h1>
+    <p>{{movie.year}}</p>
+    <p>{{movie.rating}}</p>
+    <button (click)="onDelete(movie.id)">Delete</button>
+</div>
+
+<div class="navigateButton"><button (click)="navigateNew()">New Movie</button></div>
